@@ -1,0 +1,23 @@
+#app {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #aeb7bd;
+  font-family: Open Sans;
+}
+
+.clock {
+  width: 400px;
+  height: 500px;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.btn {
+  line-height: 10px;
+}
+
+#time-left {
+  font-size: 4em;
+}
